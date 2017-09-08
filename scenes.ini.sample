@@ -1,0 +1,106 @@
+[1]
+name: Cooking
+fadetime: 5
+2: 50
+3: 50
+4: 100
+5: 55
+6: 100
+7: 80
+
+[2]
+name: Dinner
+fadetime: 10
+2: 25
+3: 50
+4: 25
+5: 60
+6: 100
+7: 40
+
+[3]
+name: Evening
+fadetime: 10
+2: 15	; Hallway Ceiling
+3: 65	; Great Room Bubble Lamp
+4: 25	; Kitchen Ceiling
+5: 15	; Dining Table
+6: 100	; Mystery Hallway
+7: 50	; Great Room Floor Lamp
+
+[4]
+name: Late Evening
+fadetime: 10
+2: 15   ; Hallway Ceiling
+3: 50   ; Great Room Bubble Lamp
+4: 5    ; Kitchen Ceiling
+5: 5    ; Dining Table
+6: 75	; Mystery Hallway
+7: 25   ; Great Room Floor Lamp
+9: 5	; Right Bedside
+14: 5	; Left Bedside
+16: 15  ; Dresser
+
+[5]
+name: To Bed
+fadetime: 10
+2: 0    ; Hallway Ceiling
+3: 0    ; Great Room Bubble Lamp
+4: 0    ; Kitchen Ceiling
+5: 0    ; Dining Table
+6: 0    ; Mystery Hallway
+7: 0    ; Great Room Floor Lamp
+8: 0	; Bedroom Chandelier
+9: 5	; Right Bedside
+14: 5	; Left Bedside
+16: 15  ; Dresser
+
+[6]
+name: Gaming
+fadetime: 2
+2: 100	; Hallway Ceiling
+3: 100	; Great Room Bubble Lamp
+4: 100	; Kitchen Ceiling
+5: 100	; Dining Table
+6: 100	; Mystery Hallway
+7: 50	; Great Room Floor Lamp
+
+[7]
+name: Movie
+fadetime: 5
+2: 15  ; Hallway Ceiling
+3: 15  ; Great Room Bubble Lamp
+4: 15  ; Kitchen Ceiling
+5: 15  ; Dining Table
+6: 50  ; Mystery Hallway
+7: 6   ; Great Room Floor Lamp
+
+[50]
+name: All Off Fast
+fadetime: 2
+2: 0
+3: 0
+4: 0
+5: 0
+6: 0
+7: 0
+8: 0
+9: 0
+10: 0
+11: 0
+12: 0
+13: 0
+14: 0
+15: 0
+16: 0
+
+[51]
+name: All But Bedroom Off Slow
+fadetime: 15
+2: 0
+3: 0
+4: 0
+5: 0
+6: 0
+7: 0
+
