@@ -96,4 +96,5 @@ I have a bedside Pico that's paired to my bedside lamp, but I've set up the Off 
 This would not have been possible without implementation facts gleaned from other software that talks to Lutron Caseta Wireless devices:
 * [Casetify](https://github.com/jhanssen/casetify)
 * [MiCasaVerde Caseta Connect](http://forum.micasaverde.com/index.php?topic=35577.0)
+
 And, of course, big thanks to Lutron for publishing its [Lutron Integration Protocol Guide](http://www.lutron.com/TechnicalDocumentLibrary/040249.pdf) to allow third-party integration via an open protocol.
